@@ -1,0 +1,16 @@
+h1, h2{
+    color: red;
+}
+article{
+    border-top: solid green 2px;
+    border-bottom: solid green 2px;
+}
+img{
+    float: left;
+    margin-right: 30px;
+    width: 70px;
+    height: 70px;
+}
+body{
+    background-color: khaki;
+}
